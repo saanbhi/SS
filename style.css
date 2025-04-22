@@ -95,6 +95,12 @@ section:hover {
     background-color: #BCA89F;
 }
 
+form {
+      font-family:HYMyeongJo-Extra;
+      font-size: 20px;
+    }
+
+
 footer {
             text-align: center;
             margin-top: 40px;
