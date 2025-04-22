@@ -59,13 +59,13 @@ font-family:HYMyeongJo-Extra;
 a:link {
   color: #3A2D28;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:visited {
   color: #584738;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
