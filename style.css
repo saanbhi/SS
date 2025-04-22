@@ -94,10 +94,10 @@ section:hover {
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
     background-color: #BCA89F;
 }
-
-form {
+ form {
       font-family:HYMyeongJo-Extra;
-      font-size: 25px;
+      font-size: 20px;
+      color: #46322B;
     }
 
 
